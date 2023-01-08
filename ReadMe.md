@@ -39,19 +39,3 @@
 ---
 
 ## The output file is created as per name requested by user and it contains all the positions of zero when it moves UP, Down, Left or Right, or even when it backtracks it gets printed as a check.
-
----
-
----
-
-## Submitted By:
-
-### Mukund Sharma
-
-### G01374620
-
-### CS580
-
-### Project 2
-
-### George Mason University Fairfax
