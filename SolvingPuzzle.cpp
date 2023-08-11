@@ -1,15 +1,10 @@
 //
-//  SolvingPuzzle.cpp
-//  Project 2
-//
 //  Name :  Mukund Sharma
-//  GNumber : G01374620
 //  Date : 9th October 2022
 //
 
 #include <math.h>
 #include <time.h>
-
 #include <algorithm>
 #include <fstream>
 #include <iostream>
